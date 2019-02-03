@@ -1,5 +1,5 @@
 # lti-arithmetic
-Arithmetical manipulation for scipy.signal.lti TransferFunction
+Arithmetic manipulation for scipy.signal.lti TransferFunction
 
 LTI system representations in scipy do not offer built-in composability.
 Given two instances of `scipy.signal.lti`, for example, `H` and `G`,
