@@ -8,7 +8,7 @@ setuptools.setup(
 	version="1.0.0",
 	author="James Wilson",
 	author_email="jmw@jmw.name",
-	description="Arithmetical manipulation for scipy.signal.lti TransferFunction",
+	description="Arithmetic manipulation for scipy.signal.lti TransferFunction",
 	long_description=long_description,
 	long_description_content_type="text/markdown",
 	url="https://github.com/jmwilson/lti-arithmetic",
