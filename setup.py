@@ -5,7 +5,7 @@ with open("README.md", "r") as fd:
 
 setuptools.setup(
 	name="lti-arithmetic",
-	version="1.0.0",
+	version="1.0.0.post1",
 	author="James Wilson",
 	author_email="jmw@jmw.name",
 	description="Arithmetic manipulation for scipy.signal.lti TransferFunction",
